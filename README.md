@@ -40,3 +40,7 @@ cd product-react-app
 cd my-react-app/public/data
 json-server --watch data.json
 
+
+## screen recording
+https://github.com/nabin739/mockdata/blob/master/video.mp4
+
