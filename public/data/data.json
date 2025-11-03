@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 600,
+      "rating": 4.6,
+      "image": "../src/images/wireless.png",
+      "description": "Noise-cancelling over-ear headphones with deep bass."
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 1000,
+      "rating": 4.3,
+      "image": "../src/images/smartwatch.png",
+      "description": "Fitness tracker with heart rate and sleep monitoring."
+    },
+    {
+      "id": 3,
+      "title": "Bluetooth Speaker",
+      "price": 2000,
+      "rating": 4.8,
+      "image": "../src/images/speaker.png",
+      "description": "Portable speaker with 12-hour battery life."
+    },
+    {
+      "id": 4,
+      "title": "Gaming Mouse",
+      "price": 700,
+      "rating": 4.5,
+      "image": "../src/images/gamingmouse.png",
+      "description": "RGB lighting, 6 programmable buttons, ergonomic design."
+    },
+    {
+      "id": 5,
+      "title": "JBL",
+      "price": 3500,
+      "rating": 4.7,
+      "image": "../src/images/jbl.png",
+      "description": "JBL Clip 4 Portable Bluetooth Speaker JBL"
+    },
+    {
+      "id": 6,
+      "title": "DSLR Camera",
+      "price": 45000,
+      "rating": 4.9,
+      "image": "../src/images/dslr.png",
+      "description": "24.1MP DSLR with 18-55mm lens kit."
+    },
+    {
+      "id": 7,
+      "title": "E-Reader",
+      "price": 8000,
+      "rating": 4.4,
+      "image": "../src/images/ereader.png",
+      "description": "6-inch glare-free touchscreen display."
+    },
+    {
+      "id": 8,
+      "title": "Action Camera",
+      "price": 12000,
+      "rating": 4.6,
+      "image": "../src/images/actioncamera.png",
+      "description": "4K waterproof action camera with image stabilization."
+    },
+    {
+      "id": 9,
+      "title": "Fitness Tracker",
+      "price": 3000,
+      "rating": 4.2,
+      "image": "../src/images/fitnesstracker.png",
+      "description": "Activity tracker with heart rate and sleep monitoring."
+    },
+    {
+      "id": 10,
+      "title": "Noise-Cancelling Earbuds",
+      "price": 15000,
+      "rating": 4.5,
+      "image": "../src/images/noise.png",
+      "description": "True wireless earbuds with active noise cancellation."
+    },
+    {
+      "id": 11,
+      "title": "4K Monitor",
+      "price": 25000,
+      "rating": 4.7,
+      "image": "../src/images/4k.png",
+      "description": "27-inch 4K UHD monitor with HDR support."
+    },
+    {
+      "id": 12,
+      "title": "Mechanical Keyboard",
+      "price": 5000,
+      "rating": 4.4,
+      "image": "../src/images/keyboard.png",
+      "description": "RGB backlit mechanical keyboard with blue switches."
+    },
+    {
+      "id": 13,
+      "title": "External Hard Drive",
+      "price": 6000,
+      "rating": 4.3,
+      "image": "../src/images/drive.png",
+      "description": "2TB portable external hard drive with USB 3.0."
+    },
+    {
+      "id": 14,
+      "title": "Smartphone Gimbal",
+      "price": 9000,
+      "rating": 4.5,
+      "image": "../src/images/gimbal.png",
+      "description": "3-axis handheld gimbal stabilizer for smartphones."
+    },
+    {
+      "id": 15,
+      "title": "VR Headset",
+      "price": 30000,
+      "rating": 4.6,
+      "image": "../src/images/vr.png",
+      "description": "All-in-one VR headset with high-resolution display."
+    },
+    {
+      "id": 16,
+      "title": "Portable Charger",
+      "price": 2500,
+      "rating": 4.4,
+      "image": "../src/images/portal.png",
+      "description": "10000mAh power bank with fast charging support."
+    },
+    {
+      "id": 17,
+      "title": "Smart Home Hub",
+      "price": 8000,
+      "rating": 4.3,
+      "image": "../src/images/smarthub.png",
+      "description": "Voice-controlled smart home hub with Alexa."
+    },
+    {
+      "id": 18,
+      "title": "Digital Photo Frame",
+      "price": 4000,
+      "rating": 4.2,
+      "image": "../src/images/frame.png",
+      "description": "10-inch digital photo frame with Wi-Fi connectivity."
+    },
+    {
+      "id": 19,
+      "title": "Laptop Stand",
+      "price": 1500,
+      "rating": 4.5,
+      "image": "../src/images/laptopstand.png",
+      "description": "Adjustable aluminum laptop stand for better ergonomics."
+    },
+    {
+      "id": 20,
+      "title": "Webcam",
+      "price": 3500,
+      "rating": 4.4,
+      "image": "../src/images/webcam.png",
+      "description": "1080p HD webcam with built-in microphone."
+    },
+    {
+      "id": 21,
+      "title": "Smart Light Bulb",
+      "price": 1200,
+      "rating": 4.3,
+      "image": "../src/images/light.png",
+      "description": "Color-changing smart LED light bulb with app control."
+    },
+    {
+    "id":22,
+    "title":"Smart Thermostat",
+    "price":6000,
+    "rating":4.5,
+    "image":"../src/images/thermostat.png",
+    "description":"Wi-Fi enabled smart thermostat with voice control."
+    },
+    {
+        "id":23,
+        "title":"Robot Vacuum",
+        "price":15000,
+        "rating":4.6,
+        "image":"../src/images/vacuum.png",
+        "description":"Automatic robot vacuum cleaner with smart mapping."
+    },
+    {
+        "id" : 24,
+        "title":"Wireless Charger",
+        "price":3000,
+        "rating":4.4,
+        "image":"../src/images/wirelesscharger.png",
+        "description":"Fast wireless charging pad for smartphones."
+    },
+    {
+        "id":25,
+        "title":"Smart Doorbell",
+        "price":7000,
+        "rating":4.5,
+        "image":"../src/images/doorbell.png",
+        "description":"Video doorbell with motion detection and two-way audio."
+    }
+  ]
+}
