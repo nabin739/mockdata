@@ -1,4 +1,4 @@
-/* Reset and base styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -53,7 +53,7 @@ body {
   }
 }
 
-/* Animation utilities */
+
 .fade-in {
   animation: fadeIn 0.3s ease-in;
 }
