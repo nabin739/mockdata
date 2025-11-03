@@ -1,16 +1,42 @@
-# React + Vite
+#  Product Display App (Mock JSON Server + React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based frontend that fetches and displays products using a mock JSON API powered by **JSON Server**.  
+The project demonstrates fetching data, dynamic rendering of product cards, and clean UI components with reusable code structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## React Compiler
+- Fetches live data from a local JSON Server (`db.json`)
+- Displays a responsive product grid
+- Modular React components for easy maintenance
+- Error handling for failed network requests
+- Clean, minimal UI with reusable styles
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Tech Stack Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Frontend:**
+- React (Vite setup)
+- JavaScript (ES6+)
+- CSS3
+
+**Backend (Mock API):**
+- JSON Server
+
+**Tools:**
+- Node.js & npm
+- Visual Studio Code
+
+---
+
+##  Setup Steps
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/product-display-app.git
+cd product-react-app
+cd my-react-app/public/data
+json-server --watch data.json
+
